@@ -1,0 +1,59 @@
+/* add your CSS here */
+.italic{
+		
+	font-style: italic;
+	
+
+
+}
+h3{
+
+	margin: 10px 0 10px 25px;
+
+
+}
+.list{
+
+		list-style-type: none;
+		margin: 10px 0 10px -30px;
+		
+}
+
+p{
+	
+		margin: 10px 0 10px 10px;
+
+
+
+}
+
+span{
+
+	font-weight: bold;
+	
+}
+div{
+
+	 border-style: outset;
+    border-width: 5px;
+	width: 350px;
+	margin: auto;
+	
+}
+
+.info{
+
+	border-style: solid;
+	border-width: 1px;
+	width: 300px;
+	color : black;
+	margin: 0 0 10px 25px;	
+}
+
+.img{
+
+	margin: 0 0 10px 25px;
+
+
+
+}
